@@ -1,0 +1,56 @@
+{
+    "status": "success",
+    "status_code": 200,
+    "people": [
+        {
+            "firstName": "Milena",
+            "lastName": "Ospina",
+            "birthDate": "2008-01-13"
+        },
+        {
+            "firstName": "Andrés",
+            "lastName": "Torres",
+            "birthDate": "1995-12-03"
+        },
+        {
+            "firstName": "Carlos",
+            "lastName": "Castro",
+            "birthDate": "1957-06-16"
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Ovalle",
+            "birthDate": "1975-04-23"
+        },
+        {
+            "firstName": "Niko",
+            "lastName": "Nishida",
+            "birthDate": "1987-02-02"
+        },
+        {
+            "firstName": "Laura",
+            "lastName": "Zuluaga",
+            "birthDate": "1961-08-27"
+        },
+        {
+            "firstName": "Ana",
+            "lastName": "Aguilar",
+            "birthDate": "2010-11-19"
+        },
+        {
+            "firstName": "Sebastián",
+            "lastName": "Perez",
+            "birthDate": "2001-09-09"
+        },
+        {
+            "firstName": "Lina",
+            "lastName": "Jaramillo",
+            "birthDate": "1930-07-04"
+        },
+        {
+            "firstName": "David",
+            "lastName": "Arango",
+            "birthDate": "1954-03-14"
+        }
+    ]
+}
